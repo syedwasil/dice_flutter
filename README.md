@@ -1,6 +1,7 @@
 # dice_flutterr
 
 A new Flutter project.
+![Screenshot_20240907_155259](https://github.com/user-attachments/assets/0bf49cbe-c60c-4e23-a2e9-d21ce2b17e20)
 
 ## Getting Started
 
